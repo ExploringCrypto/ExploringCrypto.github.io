@@ -9,7 +9,7 @@ tags: [Introduction]
 
 ![Introductory Post](/assets/images/2022/firstPost/i1.png)
 
-Hello everyone! I created this website in order to document my cryptography learning journey. I started learning how to code in around July 2020. After creating some random projects, I stumbled upon the beautiful world of cryptography. I found asymmetric key systems like RSA and Elliptic Curves to be really fascinating. However, I lacked the foundational mathematical knowledge and maturity to truly understand what was going on. It doesn't help that I am terrified of maths :P
+Hello everyone! I created this website in order to document my cryptography learning journey. I started learning how to code in around July 2020. After creating some random projects, I stumbled upon the beautiful world of cryptography. I found asymmetric key systems like RSA and Elliptic Curves to be really fascinating. However, I lack the foundational mathematical knowledge and maturity to truly understand what is going on. It doesn't help that I am terrified of maths :P
 
 In order to counteract this, I have decided to start from the basics (I am in high school when this post was written). I have decided to start learning the basics of linear algebra and abstract algebra. I will first go through the book "Elementary Linear Algebra, 11<sup>th</sup> edition (Applications Version)" by Howard Anton and Chris Rorres. After that, I will be exploring the book "Learning Modern Algebra - From Early Attemps to Prove Fermat's Last Theorem" by Al Cuoco and Joseph J. Rotman.
 
